@@ -1,0 +1,107 @@
+@font-face {
+	    font-family: Aller_Lt; /* Имя шрифта */
+	    src: url(../fonts/Aller_Lt.ttf); /* Путь к файлу со шрифтом */
+	    }
+	    td,th{
+	    	padding:2px 10px;
+	    }
+	    #SyncDet{
+	    	padding-left:50px;
+	    }
+	    select,input,body{
+   		font-family: Aller_Lt;
+   		}
+		#last_date {
+			visibility:hidden;
+		}
+		#back{
+			margin-left:20px;
+		}
+		#back a{
+			color:#000;
+			text-decoration: none;
+		}
+		#submit,#back{
+			box-shadow: 2px 2px #000;
+		}
+		#bb0,#bb1{
+			width:500px;
+			height:50px;
+		}
+		#bb0{
+			background-color:#000;
+		}
+		#bb1{
+			background-color:#999;
+		}
+
+		.closeSyncMode{
+			display:none;
+		}
+		.Sech,.sync,.Sechedule_1,#sel,#last_sync{
+			display:inline-block;
+		}
+		#how_often,th,td{
+			border:2px solid #000;
+		}
+		#bb2{
+			vertical-align: top;
+		}
+		#how_often{
+			width:15px;
+		}
+		.Sech{
+			vertical-align:top;
+		}
+		#radio{
+			padding:5px;
+		}
+		#checkbox{
+			border-left:3px solid #000;
+			padding:5px;
+		}
+		th{
+			background-color:#ddd;
+		}
+		#detiles{
+			padding-left:50px;
+			border-left: solid 3px #000;
+		}
+		#last_sync{
+			margin:20px 20px 20px 0;
+
+		}
+		.Sechedule_1{
+			margin-left:140px;
+			margin-bottom:50px;
+		}
+		body{
+    		font-family: Aller_Lt;
+    		width:1000px;
+			margin:auto;
+		}
+		.none_border{
+			border:none;
+		}
+		#date{
+			color:#999;
+			visibility:visible;
+		}
+		#sel{
+			vertical-align:top;
+		}
+		#sync1{
+			padding-right:20px;
+		}
+		#mode{
+			vertical-align:top;
+		}
+		table{
+			border-collapse:collapse;
+		}
+		.closeDetailes{
+			display:none;
+		}
+		.openDetailes{
+			display:table-cell;
+		}

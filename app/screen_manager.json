@@ -1,0 +1,17 @@
+[
+{
+	"menu":
+			 {
+				"html":"menu/menu.html",
+				"css":"menu/menu.css",
+				"js":"menu/menu.js"
+			 },
+
+ 	"schedule":
+			 {
+				"html":"schedule/schedule.html",
+				"css":"schedule/schedule.css",
+				"js":"schedule/schedule.js"
+			 }
+}
+]
